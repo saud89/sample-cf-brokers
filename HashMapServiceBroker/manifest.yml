@@ -1,0 +1,5 @@
+---
+applications:
+- name: hashMapServiceBroker
+  path: target/HashMapServiceBroker-0.0.1-SNAPSHOT.war
+  host: hashMapServiceBroker

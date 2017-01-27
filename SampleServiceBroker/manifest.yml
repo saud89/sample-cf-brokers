@@ -1,0 +1,5 @@
+---
+applications:
+- name: sampleServiceBroker
+  path: target/SampleServiceBroker-0.0.1-SNAPSHOT.war
+  host: sampleServiceBroker
